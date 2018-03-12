@@ -1,4 +1,4 @@
-package com.gmail.jackkobec.java.core;
+package com.gmail.jackkobec.java.core.model;
 
 
 import lombok.AllArgsConstructor;

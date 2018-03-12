@@ -1,5 +1,7 @@
 package com.gmail.jackkobec.java.core;
 
+import com.gmail.jackkobec.java.core.model.Student;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
