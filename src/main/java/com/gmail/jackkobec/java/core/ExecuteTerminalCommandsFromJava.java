@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * @Author Jack <jackkobec>
  */
-public class executeTerminalCommandsFromJava {
+public class ExecuteTerminalCommandsFromJava {
 
     public static void main(String[] args) throws IOException {
         // Gets runtime
