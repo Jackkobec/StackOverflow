@@ -41,6 +41,8 @@ public class MatrixInitialisationAndPrint {
      * @param matrix
      */
     public static void printMatrix(int[][] matrix) {
-        Arrays.stream(matrix).map(array -> Arrays.toString(array) + "\n").forEach(System.out::println);
+        Arrays.stream(matrix)
+                .map(array -> Arrays.toString(array) + "\n")
+                .forEach(System.out::println);
     }
 }
