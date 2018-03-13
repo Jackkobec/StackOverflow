@@ -1,9 +1,5 @@
 package com.gmail.jackkobec.java.core.string;
 
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.Optional;
-
 /**
  * @Author Jack <J@ck>
  * https://stackoverflow.com/questions/49264343/java-get-substring-or-split-from-multiline-string
