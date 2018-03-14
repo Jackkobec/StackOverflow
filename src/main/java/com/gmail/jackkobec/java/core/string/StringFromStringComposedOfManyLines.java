@@ -9,9 +9,9 @@ public class StringFromStringComposedOfManyLines {
         String manyLinesString =
                 "Date: May 12, 20003\n" +
                         "ID: 54076\n" +
-                        "Content: Test\n" +
+                        "Content: ListReverse\n" +
                         "filename: Testing.fileextension\n" +
-                        "folder: Test Folder\n" +
+                        "folder: ListReverse Folder\n" +
                         "endDate: May 13, 2003\n";
         System.out.println(manyLinesString);
 
